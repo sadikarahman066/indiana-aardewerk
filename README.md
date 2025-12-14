@@ -1,6 +1,6 @@
 # [Archeology Game - Indiana Aardewerk](https://hovinhthanh7893.github.io/indiana-aardewerk/)
 
-[https://hovinhthanh7893.github.io/indiana-aardewerk/]https://hovinhthanh7893.github.io/indiana-aardewerk/
+[https://hovinhthanh7893.github.io/indiana-aardewerk/](https://hovinhthanh7893.github.io/indiana-aardewerk/)
 
 Updated December 2025
 
